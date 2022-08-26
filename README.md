@@ -1,5 +1,5 @@
 # EnvGameTemplate
-This is a template for an environment game utilizing py_env_lib and graphik.
+This is a template for a game involving a 2D virtual environment. 
 
 ## Support
 You can find the support discord server [here](https://discord.gg/49J4RHQxhy).
