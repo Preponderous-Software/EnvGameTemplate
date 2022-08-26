@@ -121,5 +121,5 @@ class EnvGameTemplate:
         
         self.quitApplication()
 
-envgametemplate = EnvGameTemplate()
-envgametemplate.run()
+envGameTemplate = EnvGameTemplate()
+envGameTemplate.run()
