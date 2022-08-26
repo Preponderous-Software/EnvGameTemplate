@@ -1,8 +1,5 @@
-# TINT
-This game involves falling blocks.
-
-## What does TINT stand for?
-TINT stands for Tint Is Not Tetris.
+# EnvGameTemplate
+This is a template for an environment game utilizing py_env_lib and graphik.
 
 ## Support
 You can find the support discord server [here](https://discord.gg/49J4RHQxhy).

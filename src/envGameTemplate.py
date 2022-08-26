@@ -7,7 +7,7 @@ from graphik import Graphik
 
 
 # @author Daniel McCoy Stephenson
-# @since August 6th, 2022
+# @since August 25th, 2022
 class EnvGameTemplate:
     def __init__(self):
         pygame.init()
